@@ -31,9 +31,6 @@
     left: 0;">
   <div class="container">
   <div class="footer-text text-center">
-    <p style="color:#fff;margin:0;font-size: 12px;"> MADE WITH <img src="img/heart2.png" alt="heart">IN BOMBAY &amp; NEW YORK</p>
-
-
     <span style="color:#fff;font-size: 12px;">© 2016 <a href="http://yogafoodlove.com/" style="color:#f8cb2a;">YogaFoodLove</a>.</span>
     <span style="color:#fff;font-size: 12px;">All Rights Reserved.</span>
   </div>
